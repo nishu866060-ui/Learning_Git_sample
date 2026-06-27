@@ -1,0 +1,1 @@
+this for understanding how git works 
